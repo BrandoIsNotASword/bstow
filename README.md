@@ -1,5 +1,6 @@
 <p align="center">
-  <img alt="arclogo" src="https://cloud.githubusercontent.com/assets/3068563/23199029/55e9d55a-f8aa-11e6-91a2-74b82db3813c.png"><br><br>
+  <img alt="arclogo" src="https://raw.githubusercontent.com/BrandoIsNotASword/bstow/master/src/components/Captura1.PNG"><br><br>
+  <img alt="arclogo" src="https://raw.githubusercontent.com/BrandoIsNotASword/bstow/master/src/components/captura2.png"><br><br>
 </p>
 
 **Bstow Bstow Front end Potential Hire Project 2.0**
